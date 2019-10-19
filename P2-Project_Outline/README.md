@@ -7,12 +7,38 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+> A room without books is like a body without a soul.
+  ― Marcus Tullius Cicero
+
+Diderot is a way for booklovers to organize, rate, and search their collections. Users can also connect with other readers, as well as find new book and author recommendations.
+
+This project is a response to the shortcomings of sites such as Goodreads, which users find limiting due to lack of partial star ratings, dynamic quote management, and other user-facing limitations.
+
 ### Features
-Include Features here
+
+* Users Login: Users can login after creating a profile, with passwords hashed and salted, and some parts of the site limited to logged in users.
+* Book Search: Users can search for books, which will be accomplished through Google Books API, sorting by title, author, genre, and other categories.
+* Book Collection Management: Users can not only add books to their collection, but will be able to rate and review the books, add them to lists, read what other users have to say, delete books from the collection, and edit ratings and reviews.
+* Profile Deletion: Users will be able to delete their entire profile, removing their information from the system.
+* Administrator Account: A user marked as administrator will have the ability to delete books, users, ratings, and any other data that interferes with the site's objectives or policies.
+
 ### Technologies
-Include Technologies here
+
+* Java
+* Spring Boot
+* MySQL
+* React
+* Google Books API
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+I am pushing myself to implement this project with React as the front-end, a framework that is new to me and will require additional time to learn and understand.
+
+I’l also be learning how to integrate a Google API into the process, calling specific titles and using only certain bits of information from each call. 
+
+Establishing login authentication through Spring Security will also be something new to my skillset.
+
+
 ### Project Tracker
-Link to your Trello board here
+https://github.com/shandycasteel/diderot/projects
