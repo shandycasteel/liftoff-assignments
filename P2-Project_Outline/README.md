@@ -9,7 +9,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 
 > A room without books is like a body without a soul.
-  ― Marcus Tullius Cicero
+
+    ― Marcus Tullius Cicero
 
 Diderot is a way for booklovers to organize, rate, and search their collections. Users can also connect with other readers, as well as find new book and author recommendations.
 
