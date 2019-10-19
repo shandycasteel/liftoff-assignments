@@ -42,4 +42,4 @@ Establishing login authentication through Spring Security will also be something
 
 
 ### Project Tracker
-https://github.com/shandycasteel/diderot/projects
+https://github.com/shandycasteel/diderot/projects/2
