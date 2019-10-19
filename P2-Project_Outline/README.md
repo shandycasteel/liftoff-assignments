@@ -28,7 +28,7 @@ This project is a response to the shortcomings of sites such as Goodreads, which
 
 * Java
 * Spring Boot
-* MySQL
+* H2
 * React
 * Google Books API
 
@@ -38,7 +38,7 @@ I am pushing myself to implement this project with React as the front-end, a fra
 
 I’l also be learning how to integrate a Google API into the process, calling specific titles and using only certain bits of information from each call. 
 
-Establishing login authentication through Spring Security will also be something new to my skillset.
+Establishing login authentication through Spring Security will also be something new to my skillset, as will using the H2 database engine.
 
 
 ### Project Tracker
