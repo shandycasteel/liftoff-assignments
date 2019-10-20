@@ -16,6 +16,8 @@ Diderot is a way for booklovers to organize, rate, and search their collections.
 
 This project is a response to the shortcomings of sites such as Goodreads, which users find limiting due to lack of partial star ratings, dynamic quote management, and other user-facing limitations.
 
+The goal is to create a full-stack application in the traditional MVC design pattern with CRUD functioanlity using React as front-end framework, Spring Boot as the backend REST API, and MySQL as the data store.
+
 ### Features
 
 * Users Login: Users can login after creating a profile, with passwords hashed and salted, and some parts of the site limited to logged in users.
@@ -28,7 +30,7 @@ This project is a response to the shortcomings of sites such as Goodreads, which
 
 * Java
 * Spring Boot
-* H2
+* MySQL
 * React
 * Google Books API
 
@@ -38,7 +40,7 @@ I am pushing myself to implement this project with React as the front-end, a fra
 
 I’l also be learning how to integrate a Google API into the process, calling specific titles and using only certain bits of information from each call. 
 
-Establishing login authentication through Spring Security will also be something new to my skillset, as will using the H2 database engine.
+Establishing login authentication through Spring Security will also be something new to my skillset.
 
 
 ### Project Tracker
