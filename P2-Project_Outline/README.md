@@ -42,4 +42,4 @@ I’ll need to learn how to use the Google API, calling specific titles and usin
 Establishing authentication through Spring Security will also be something new to my skillset.
 
 ### Project Tracker
-https://github.com/shandycasteel/diderot/projects/2
+https://github.com/shandycasteel/diderot/projects/1
