@@ -7,12 +7,39 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+> A room without books is like a body without a soul.
+
+—- Marcus Tullius Cicero
+
+Diderot is a way for booklovers to organize, rate, and search their collections. Users can also connect with other readers, as well as find new book and author recommendations.
+
+This project is a response to the shortcomings of sites such as Goodreads, which users find limiting due to lack of partial star ratings, dynamic quote management, and other user-facing limitations.
+
+The goal is to create a full-stack application in the traditional MVC design pattern with CRUD functioanlity through MySQL as the data store.
+
 ### Features
-Include Features here
+
+* Users Login: Users can login after creating a profile, with passwords hashed and salted, and some parts of the site limited to logged in users.
+* Book Search: Users can search for books, which will be accomplished through Google Books API, sorting by title, author, genre, and other categories.
+* Book Collection Management: Users can not only add books to their collection, but will be able to rate and review the books, add them to lists, read what other users have to say, delete books from the collection, and edit ratings and reviews.
+
 ### Technologies
-Include Technologies here
+
+* Java 8
+* Spring Boot
+* Spring Security
+* Spring MVC
+* JPA
+* Bootstrap
+* Maven
+* Google Books API
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+I’ll need to learn how to use the Google API, calling specific titles and using only certain bits of information from each call. 
+
+Establishing authentication through Spring Security will also be something new to my skillset.
+
 ### Project Tracker
-Link to your Trello board here
+https://github.com/shandycasteel/diderot/projects/1
